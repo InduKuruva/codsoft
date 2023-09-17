@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open task2.html",
+            "file": "C:\\Users\\DELL\\codsoft\\task2.html"
+        }
+    ]
+}
